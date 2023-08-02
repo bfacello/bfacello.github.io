@@ -1,0 +1,68 @@
+
+body {
+    background-image: url(galaxy.jpg);
+    background-size: cover;
+    align-items: center;
+}
+
+.imagen {
+    width: 100px;
+}
+
+.titulo{
+    font-variant: small-caps;
+    font-size: 3em;
+    color: rgb(60, 60, 216);
+    text-align: center;
+}
+
+.subtitulo{
+    font-variant: small-caps;
+    font-size: 2em;
+    color: greenyellow;
+    text-align: center;
+}
+
+.parrafo {
+    font-size: 1em;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blanchedalmond;
+    text-align: center;
+}
+
+form {
+    color: blanchedalmond;
+}
+
+#linkcontacto {
+    color: cyan;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    
+}
+
+
+#linkprojectos {
+    color: lawngreen;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    
+}
+
+  a.projecto {
+    text-align: center;
+    display: block;
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: larger;
+  }
+
+  div.contacto {
+    text-align: center;
+  }
